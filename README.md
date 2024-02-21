@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KritiTrivedi
 - 👀 I’m interested in learning new thinks
-- 🌱 I’m currently learning nodejs and react js
-- 💞️ I’m looking to collaborate on salesforce , nodejs , react
+- 🌱 I’m currently learning node js and react js, Django
+- 💞️ I’m looking to collaborate on salesforce, node js, react
 - 📫 How to reach me kritikatrivedi85@gmail.com
 
 <!---
